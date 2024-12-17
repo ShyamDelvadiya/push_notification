@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "404051638601",
+    "firebase_url": "https://first-push-notification-ac360-default-rtdb.firebaseio.com",
+    "project_id": "first-push-notification-ac360",
+    "storage_bucket": "first-push-notification-ac360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404051638601:android:10305a979bf1c0d54f8298",
+        "android_client_info": {
+          "package_name": "com.pushnotification.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbAEMgB01z-FA7IXVZ5BUlsZR_kIUF-CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
